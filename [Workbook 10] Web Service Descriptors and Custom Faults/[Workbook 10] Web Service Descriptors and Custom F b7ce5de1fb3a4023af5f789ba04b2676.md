@@ -15,7 +15,7 @@
 
 ![Untitled](%5BWorkbook%2010%5D%20Web%20Service%20Descriptors%20and%20Custom%20F%20b7ce5de1fb3a4023af5f789ba04b2676/new1.png)
 
-#### STEP 2. svc_IF0004_sequenceTryCatch Flowservice 내용을 복사하여 svc 아래 새로운 svc_IF0009_sequenceTryCatch 서비스 내 붙여넣습니다.
+#### STEP 2. CUDO_Admin.IF004.svc:svc_IF0004_sequenceTryCatch Flowservice 내용을 복사하여 svc 아래 새로운 svc_IF0009_sequenceTryCatch 서비스 내 붙여넣습니다.
 
 ![Untitled](%5BWorkbook%2010%5D%20Web%20Service%20Descriptors%20and%20Custom%20F%20b7ce5de1fb3a4023af5f789ba04b2676/new3.png)
 ![Untitled](%5BWorkbook%2010%5D%20Web%20Service%20Descriptors%20and%20Custom%20F%20b7ce5de1fb3a4023af5f789ba04b2676/new2.png)
