@@ -61,7 +61,7 @@
 ![Untitled](%5BWorkbook%2010%5D%20Web%20Service%20Descriptors%20and%20Custom%20F%20b7ce5de1fb3a4023af5f789ba04b2676/new002.png)
 
 #### STEP 13. 마우스 오른쪽 버튼을 클릭하여 시퀀스 TryCatch_PortType_SequenceTryCatch를 실행하고 Run As Flow Service를 선택합니다. 다음 값을 입력으로 제공합니다.
-   1. **tns:sequenceTryCatch/fileName** = /webM/IS01/test.txt
+   1. **tns:sequenceTryCatch/fileName** = /wm/IS01/test.txt
    2. **auth/transport/type** = **BASIC**
    3. **auth/transport/user** = **Administrator**
    4. **auth/transport/pass = manage**
